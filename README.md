@@ -1,6 +1,6 @@
 # Pycodes
-Nearly all of my python codes are here.
-Never ending updates
+## my old python codes.
+
 ------------------------
 
 Including but not limited to:
