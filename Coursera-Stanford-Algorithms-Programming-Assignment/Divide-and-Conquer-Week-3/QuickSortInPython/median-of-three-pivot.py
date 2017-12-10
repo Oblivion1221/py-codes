@@ -46,7 +46,7 @@ def qs(A, l, r):
 if __name__ == '__main__':
     tot_comp = 0
 
-    with open('/Users/yangyaoxian/Desktop/pythoncodes/pycodes/Coursera-Stanford-Algorithms-Programming-Assignment/Divide-and-Conquer-Week-3/QuickSortInPython/QuickSort.txt') as f:
+    with open('./QuickSort.txt') as f:
         A = f.read().splitlines()
         f.close()
     for i in range(len(A)):
